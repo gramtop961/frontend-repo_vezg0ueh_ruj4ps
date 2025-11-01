@@ -1,0 +1,5 @@
+
+> pastel-saas-landing@1.0.0 dev
+> vite --port 3000 --host
+
+sh: 1: vite: not found
